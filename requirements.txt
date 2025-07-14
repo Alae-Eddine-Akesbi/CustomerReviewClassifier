@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+joblib
+torch
+transformers
+datasets
+evaluate
+accelerate
+bitsandbytes
+peft
+streamlit
+matplotlib
+seaborn
+nltk
